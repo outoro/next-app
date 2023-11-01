@@ -1,0 +1,61 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "html",
+      "body": "html is ..."
+    },
+    {
+      "id": 2,
+      "title": "css",
+      "body": "css is ..."
+    },
+    {
+      "title": "I am ",
+      "body": "행복이에요",
+      "id": 3
+    },
+    {
+      "title": "tailwindcss",
+      "body": "tailwindcss",
+      "id": 7
+    },
+    {
+      "title": "a",
+      "body": "a",
+      "id": 8
+    },
+    {
+      "title": "b",
+      "body": "c",
+      "id": 9
+    },
+    {
+      "title": "c",
+      "body": "d",
+      "id": 10
+    },
+    {
+      "title": "next.js",
+      "body": "CRUD 끄<ㅌ",
+      "id": 11
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

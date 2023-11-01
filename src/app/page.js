@@ -3,9 +3,14 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-      <h1>
-        <a href="/">Home</a>
-      </h1>
+      <p>hello, whe~!</p>
+      <Image
+        src="/image.jpg"
+        width={400}
+        height={500}
+        priority={true}
+        alt="Picture of the author"
+      />
     </>
   );
 }
